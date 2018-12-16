@@ -1,3 +1,21 @@
+const Discord = require("discord.js"); 
+const client = new Discord.Client(); 
+
+
+
+
+
+
+var prefix = '!!'
+client.on('ready',  () => {
+  console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
+  console.log('by Ahmed');
+  console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
+  console.log(`Logged in as  * [ " ${client.user.username} " ] servers! [ " ${client.guilds.size} " ]`);
+  console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
+  console.log('is online')
+client.user.setStatus("dnd");
+});
 const Eris = require("eris");
 var bot = new Eris("NTIzNjQ0MjMxOTY1NzM3MDAw.Dvchgg.TzSSHODNsRXp9RVuzXCaquIlz20");
 //** لاتعدل على شي تحت ذا **//
