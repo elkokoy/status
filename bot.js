@@ -53,6 +53,4 @@ bot.editChannel("523645471248482324", { name : "✲Welcome To ℊℯℯ𝖪𝒴�
 }, 4000);
 
 }
-
-bot.connect();
 client.login(process.env.BOT_TOKEN);
