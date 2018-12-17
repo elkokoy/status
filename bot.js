@@ -1,5 +1,4 @@
 const Eris = require("eris");
-var bot = new Eris("NTIzNjQ0MjMxOTY1NzM3MDAw.Dvchgg.TzSSHODNsRXp9RVuzXCaquIlz20");
 //** لاتعدل على شي تحت ذا **//
 bot.on("ready", () => {
 onstart();
@@ -56,3 +55,4 @@ bot.editChannel("523645471248482324", { name : "✲Welcome To ℊℯℯ𝖪𝒴�
 }
 
 bot.connect();
+client.login(process.env.BOT_TOKEN);
