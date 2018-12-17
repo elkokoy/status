@@ -25,9 +25,7 @@ hours = hours - 12;
 if (hours == 0) {
 hours = 12;
 }
-bot.editChannel("523645547479957504", { name : "●⌠ " + "Time : " + hours + ":" + minutes + " " + suffix + " ⌡●"});
 bot.editChannel("523645440265027585", { name : "●⌠ " + "Users : " + bot.users.size + " ⌡●"});
-bot.editChannel("523645402382073867", { name : "●⌠ " + "Servers : " + bot.guilds.region + " ⌡●"});
 bot.editChannel("523645471248482324", { name : "✲"});
 bot.editChannel("523645471248482324", { name : "✲W"});
 bot.editChannel("523645471248482324", { name : "✲We"});
@@ -51,7 +49,7 @@ bot.editChannel("523645471248482324", { name : "✲Welcome To ℊℯℯ𝖪𝒴�
 
 
 
-}, 10000);
+}, 4000);
 
 }
 
