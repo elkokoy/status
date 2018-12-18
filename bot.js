@@ -26,24 +26,24 @@ if (hours == 0) {
 hours = 12;
 }
 bot.editChannel("523645440265027585", { name : "●⌠ " + "Users : " + bot.users.size + " ⌡●"});
-bot.editChannel("523645471248482324", { name : "✲"});
-bot.editChannel("523645471248482324", { name : "✲W"});
-bot.editChannel("523645471248482324", { name : "✲We"});
-bot.editChannel("523645471248482324", { name : "✲Wel"});
-bot.editChannel("523645471248482324", { name : "✲Welc"});
-bot.editChannel("523645471248482324", { name : "✲Welco"});
-bot.editChannel("523645471248482324", { name : "✲Welcom"});
-bot.editChannel("523645471248482324", { name : "✲Welcome"});
-bot.editChannel("523645471248482324", { name : "✲Welcome "});
-bot.editChannel("523645471248482324", { name : "✲Welcome T"});
-bot.editChannel("523645471248482324", { name : "✲Welcome To"});
-bot.editChannel("523645471248482324", { name : "✲Welcome To "});
-bot.editChannel("523645471248482324", { name : "✲Welcome To ℊ"});
-bot.editChannel("523645471248482324", { name : "✲Welcome To ℊℯ"});
-bot.editChannel("523645471248482324", { name : "✲Welcome To ℊℯℯ"});
-bot.editChannel("523645471248482324", { name : "✲Welcome To ℊℯℯ𝖪"});
-bot.editChannel("523645471248482324", { name : "✲Welcome To ℊℯℯ𝖪𝒴"});
-bot.editChannel("523645471248482324", { name : "✲Welcome To ℊℯℯ𝖪𝒴✲"});
+bot.editChannel("523645471248482324", { name : "❣"});
+bot.editChannel("523645471248482324", { name : "❣W"});
+bot.editChannel("523645471248482324", { name : "❣We"});
+bot.editChannel("523645471248482324", { name : "❣Wel"});
+bot.editChannel("523645471248482324", { name : "❣Welc"});
+bot.editChannel("523645471248482324", { name : "❣Welco"});
+bot.editChannel("523645471248482324", { name : "❣Welcom"});
+bot.editChannel("523645471248482324", { name : "❣Welcome"});
+bot.editChannel("523645471248482324", { name : "❣Welcome "});
+bot.editChannel("523645471248482324", { name : "❣Welcome T"});
+bot.editChannel("523645471248482324", { name : "❣Welcome To"});
+bot.editChannel("523645471248482324", { name : "❣Welcome To "});
+bot.editChannel("523645471248482324", { name : "❣Welcome To ℊ"});
+bot.editChannel("523645471248482324", { name : "❣Welcome To ℊℯ"});
+bot.editChannel("523645471248482324", { name : "❣Welcome To ℊℯℯ"});
+bot.editChannel("523645471248482324", { name : "❣Welcome To ℊℯℯ𝖪"});
+bot.editChannel("523645471248482324", { name : "❣Welcome To ℊℯℯ𝖪𝒴"});
+bot.editChannel("523645471248482324", { name : "❣Welcome To ℊℯℯ𝖪𝒴❣"});
 
 
 
