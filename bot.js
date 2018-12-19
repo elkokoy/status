@@ -2,7 +2,6 @@ const Eris = require("eris");
 var bot = new Eris(process.env.BOT_TOKEN);
 //** لاتعدل على شي تحت ذا **//
 bot.on("ready", () => {
-  client.on('ready',  () => {
   console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
   console.log('by Ahmed');
   console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
