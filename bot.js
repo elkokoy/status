@@ -2,8 +2,6 @@ const Eris = require("eris");
 var bot = new Eris(process.env.BOT_TOKEN);
 //** لاتعدل على شي تحت ذا **//
 bot.on("ready", () => {
-
-     client.user.setActivity("!!help | للاستعمال",{type: 'WATCHING'})
   
 onstart();
 });
