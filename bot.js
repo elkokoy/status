@@ -53,4 +53,31 @@ bot.editChannel("526756752503341056", { name : "❤Welcome To ℕova❤"});
 
 }
 
+client.on("ready", async  => {
+setInterval(function(){
+client.channels.find('id', '523645471248482324').setName("W");
+client.channels.find('id', '523645471248482324').setName("We");
+client.channels.find('id', '523645471248482324').setName("Wel");
+client.channels.find('id', '523645471248482324').setName("Welc");
+client.channels.find('id', '523645471248482324').setName("Welco");
+client.channels.find('id', '523645471248482324').setName("Welcom");
+client.channels.find('id', '523645471248482324').setName("Welcome");
+client.channels.find('id', '523645471248482324').setName("Welcome T");
+client.channels.find('id', '523645471248482324').setName("Welcome To");
+client.channels.find('id', '523645471248482324').setName("Welcome To ");
+client.channels.find('id', '523645471248482324').setName("Welcome To ℕ");
+client.channels.find('id', '523645471248482324').setName("Welcome To ℕo");
+client.channels.find('id', '523645471248482324').setName("Welcome To ℕov");
+client.channels.find('id', '523645471248482324').setName("Welcome To ℕova");
+client.channels.find('id', '523645471248482324').setName("Welcome To ℕova ");
+client.channels.find('id', '523645471248482324').setName("Welcome To ℕova g");  
+client.channels.find('id', '523645471248482324').setName("Welcome To ℕova ga");
+client.channels.find('id', '523645471248482324').setName("Welcome To ℕova gam");
+client.channels.find('id', '523645471248482324').setName("Welcome To ℕova gamer");
+client.channels.find('id', '523645471248482324').setName("Welcome To ℕova gamers");
+  
+  
+  }, 3000);
+});
+
 bot.connect();
