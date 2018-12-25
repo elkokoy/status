@@ -64,25 +64,7 @@ bot.editChannel("523645471248482324", { name : "❤Welcome To Game"});
 bot.editChannel("523645471248482324", { name : "❤Welcome To Gamer"});
 bot.editChannel("523645471248482324", { name : "❤Welcome To Gamers"});
 bot.editChannel("523645471248482324", { name : "❤Welcome To Gamers❤"});
-  
-bot.editChannel("527077510161104917", { name : "❤"});
-bot.editChannel("527077510161104917", { name : "❤W"});
-bot.editChannel("527077510161104917", { name : "❤We"});
-bot.editChannel("527077510161104917", { name : "❤Wel"});
-bot.editChannel("527077510161104917", { name : "❤Welc"});
-bot.editChannel("527077510161104917", { name : "❤Welco"});
-bot.editChannel("527077510161104917", { name : "❤Welcom"});
-bot.editChannel("527077510161104917", { name : "❤Welcome"});
-bot.editChannel("527077510161104917", { name : "❤Welcome "});
-bot.editChannel("527077510161104917", { name : "❤Welcome T"});
-bot.editChannel("527077510161104917", { name : "❤Welcome To"});
-bot.editChannel("527077510161104917", { name : "❤Welcome To "});
-bot.editChannel("527077510161104917", { name : "❤Welcome To C"});
-bot.editChannel("527077510161104917", { name : "❤Welcome To Co"});
-bot.editChannel("527077510161104917", { name : "❤Welcome To Cod"});
-bot.editChannel("527077510161104917", { name : "❤Welcome To Code"});
-bot.editChannel("527077510161104917", { name : "❤Welcome To Codes"});
-bot.editChannel("527077510161104917", { name : "❤Welcome To Codes❤"});
+
 
 }, 4000);
 
