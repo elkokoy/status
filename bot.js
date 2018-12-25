@@ -47,14 +47,6 @@ bot.editChannel("526756752503341056", { name : "❤Welcome To ℕova❤"});
 
 
 
-
-
-}, 4000);
-
-}
-
-client.on("ready", async  => {
-setInterval(function(){
 client.channels.find('id', '523645471248482324').setName("W");
 client.channels.find('id', '523645471248482324').setName("We");
 client.channels.find('id', '523645471248482324').setName("Wel");
@@ -75,9 +67,10 @@ client.channels.find('id', '523645471248482324').setName("Welcome To ℕova ga")
 client.channels.find('id', '523645471248482324').setName("Welcome To ℕova gam");
 client.channels.find('id', '523645471248482324').setName("Welcome To ℕova gamer");
 client.channels.find('id', '523645471248482324').setName("Welcome To ℕova gamers");
-  
-  
-  }, 3000);
-});
+
+}, 4000);
+
+}
+
 
 bot.connect();
